@@ -1,0 +1,58 @@
+header {
+    background-color: rgb(48, 62, 82);
+    height: 100px;
+    color: white;
+    padding-left: 10px;
+}
+
+h1 {
+    line-height: 100px;
+    margin-bottom: 0;
+}
+header nav {
+    letter-spacing: 10px;
+    text-align: end;
+    padding-right: 20px;
+    position: relative;
+    bottom: 55px;
+}
+
+span {
+    letter-spacing: 0;
+}
+
+main {
+    background-color:rgba(181, 181, 178, 0.2); ;
+    height: 400px;
+    margin-bottom: 30px;
+}
+
+img {
+    clip-path: circle(50%);
+    margin-top: 80px;
+}
+
+.house{
+    margin: 15px;
+    position: relative;
+    bottom: 100px;
+}
+
+button {
+    background-color: rgb(48, 62, 82);
+    color: whitesmoke;
+    height: 30px;
+    width: 300px;
+    margin: 10px;  
+}
+
+aside div {
+    text-align: center;
+}
+footer{
+    margin-top: 10px;
+    background-color: rgba(181, 181, 178, 0.2);
+    height: 50px;
+    text-align: center;
+    padding-top: 2px;
+}
