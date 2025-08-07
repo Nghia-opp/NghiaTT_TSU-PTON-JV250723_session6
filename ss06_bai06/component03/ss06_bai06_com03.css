@@ -1,0 +1,24 @@
+#main {
+    margin: 20px;
+    border: 1px solid black;
+    height: 270px;
+    width: 920px;
+    padding: 20px;
+    background-color: rgba(190, 188, 188, 0.2);
+    border: none;
+}
+
+.section {
+    position: relative;
+    left: 400px;
+    bottom: 250px;
+    width: 520px;
+}
+
+img {
+    height: 230px;
+}
+
+li {
+    color: cadetblue;
+}

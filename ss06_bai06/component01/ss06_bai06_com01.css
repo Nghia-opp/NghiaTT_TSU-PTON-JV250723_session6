@@ -1,0 +1,17 @@
+* {
+    width: 450px;
+    height: auto;
+}
+#main {
+    height: 50px;
+}
+.main {
+    width: 10px;
+    height: 30px;
+    background-color: orangered;
+}
+h1 {
+    padding-left: 30px;
+    position: relative;
+    bottom: 60px;
+}

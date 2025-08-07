@@ -1,0 +1,33 @@
+* {
+    height: auto;
+    box-sizing: border-box;
+}
+.item {
+    width: 500px;
+    height: 30px;
+    background-color: rgba(151, 192, 235, 0.2);
+    text-align: start;
+    padding-left: 20px;
+}
+
+.main {
+    width: 500px;
+    padding-left: 20px;
+    border: 1px solid rgb(240, 234, 234);
+}
+
+p {
+    margin: 0;
+    border: 1px solid rgb(240, 234, 234);
+}
+
+.pink {
+    color: pink;
+}
+
+p .hold {
+    position: absolute;
+    right: 1200px;
+}
+
+
